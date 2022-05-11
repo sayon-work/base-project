@@ -2,4 +2,4 @@
 
 # Base project
 
-Spring boot base project
+Spring Boot base project
